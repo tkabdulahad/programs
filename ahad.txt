@@ -1,0 +1,4 @@
+what are the module i have learned in python?
+
+I have learned how to identify the module in the python language .
+In the dice program there is one module.
